@@ -1,0 +1,15 @@
+{
+    "apps":{
+        "rahalanding":{
+            "version":"latest"
+        }
+    },
+    "webdock":{
+        "events":{
+            "onStartup":{
+                "admin" : "rahalanding",
+                "default" : "rahalanding"
+            }
+        }
+    }
+}

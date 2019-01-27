@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+div#idMainImage{
+    position: fixed;
+    background-image: url("../images/raha_desktop.jpg");
+    width:960px;
+    height:500px;
+    left:50%;
+    top:50%;
+    margin-left:-480px;
+    margin-top:-250px;
+}

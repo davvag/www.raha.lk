@@ -1,0 +1,18 @@
+{
+    "components": {
+    },
+    "description":{
+        "title": "Raha.lk Landing app",
+        "author":"Raha.lk",
+        "version":"0.9",
+        "icon":""
+    },
+    "configuration":{
+        "webdock":{
+            "firewall" : {
+                "guest" : [],
+                "admin": []
+            }
+        }
+    }
+}
