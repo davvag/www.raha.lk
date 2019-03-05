@@ -1,14 +1,53 @@
 {
     "apps":{
-        "rahalanding":{
+        "i18n":{
+            "version":"latest"
+        },
+        "raha":{
+            "version":"latest"
+        },
+        "dock":{
+            "version":"latest"
+        },
+        "productapp":{
+            "version":"latest"
+        },"product_marketplace":{
+            "version":"latest"
+        },
+        "pending-orders":{
+            "version":"latest"
+        }
+        ,
+        "profileapp":{
+            "version":"latest"
+        },
+        "uom":{
+            "version":"latest"
+        },
+        "productcategories":{
+            "version":"latest"
+        },
+        "dock-settings":{
+            "version":"latest"
+        },
+        "davvag-cms-davvag":{
+            "version":"latest"
+        },
+        "davvag-cms-generalapps":{
+            "version":"latest"
+        },
+        "facebooktest":{
+            "version":"latest"
+        },
+        "riders":{
             "version":"latest"
         }
     },
     "webdock":{
         "events":{
             "onStartup":{
-                "admin" : "rahalanding",
-                "default" : "rahalanding"
+                "admin" : "dock",
+                "default" : "raha"
             }
         }
     }
